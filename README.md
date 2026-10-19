@@ -35,4 +35,4 @@ This project creates two tables (`movies` and `directors`), loads data into them
 4. Run the file
 
 ## Author
-pothamsettymoulika
+moulikapothamsetty
